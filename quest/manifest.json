@@ -10,7 +10,8 @@
         ]
     },
     "capabilities": [
-        "POST","REACTION"
+        "POST",
+        "REACTION"
     ],
     "abi": {},
     "uniqueId": {
@@ -19,11 +20,11 @@
             "subVerb": "QUEST"
         },
         "reaction": {
-            "verb": "VERIFY_QUEST",
+            "verb": "VERIFY_QUEST"
         }
     },
-    "powered":{
-        "name":"Deek"
+    "powered": {
+        "name": "Deek"
     },
     "reactionStats": {
         "user": [
